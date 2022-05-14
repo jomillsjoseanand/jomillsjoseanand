@@ -3,7 +3,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jomillsjoseanand&show_icons=true&locale=en&layout=compact" alt="jomillsjoseanand" /></p>
 
-- 🔭 I’m currently working on: [developing an iOS application for daily language learning through computer vision.](https://github.com/jomillsjoseanand/Lucidity)
+- 🔭 I’m currently working on: [developing an iOS application for daily language learning through computer vision.](https://github.com/jomillsjoseanand/SnapStudy)
 
 - 🌱 I’m currently learning: **AI/ML, React.js, and SwiftUI.**
 
