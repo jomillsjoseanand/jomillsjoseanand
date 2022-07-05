@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **jjoseana@uwaterloo.ca**
 
-- 📄 All of my projects are available in: [https://reviewkit.me/review/nRphJ74AiRG](https://reviewkit.me/review/nRphJ74AiRG)
+- 📄 All of my projects are available in: [https://reviewkit.me/review/P_mSwriHw-V](https://reviewkit.me/review/P_mSwriHw-V)
 
 - ⚡ Fun fact: **My name *Jomills* is partly my dad's: *Jo*se, partly my mom's: *Mi*ni, and partly a cricket bowler's: Kyle Mi*lls*.**
 
