@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Jomills! 👋</h1>
-<h3 align="center">I'm a Software Engineer who loves to play the ukulele and learn Japanese!</h3>
+<h3 align="center">I'm an AI/ML Engineer who loves owls and travelling!</h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jomillsjoseanand&show_icons=true&locale=en&layout=compact" alt="jomillsjoseanand" /></p>
 
-- 🔭 I’m currently working on: [developing an iOS application for daily language learning through computer vision.](https://github.com/jomillsjoseanand/SnapStudy)
+- 🔭 I’m currently working in: wat.AI and the Uber Career Prep program.
 
-- 🌱 I’m currently learning: **AI/ML, React.js, and SwiftUI.**
+- 🌱 I’m currently learning: **AI/ML Research and Scientific Computing.**
 
 - 📫 How to reach me: **jjoseana@uwaterloo.ca**
 
