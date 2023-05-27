@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **AI/ML Research and Scientific Computing.**
 
-- 📫 How to reach me: **jjoseana@uwaterloo.ca**
+- 📫 Learn more about me: **https://jomills.notion.site**
 
 - ⚡ Fun fact: **My name *Jomills* is partly my dad's: *Jo*se, partly my mom's: *Mi*ni, and partly a cricket bowler's: Kyle Mi*lls*.**
 
